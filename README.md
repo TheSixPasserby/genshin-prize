@@ -14,6 +14,6 @@
 第四章 21r/幕  (枫丹)  
 间章  第一幕(风起鹤归) 16r &ensp; 第二幕(危途疑踪)23r &ensp; 第三幕(倾落伽蓝) 19r  
 2.传说任务(需开图，包沿途传送点加2r):  
-12-22r
+12-22r  
 3.世界任务  
 (正在制定，了解价格请[联系我](https://github.com/TheSixPasserby/genshin-prize/tree/main/image/qrcode.jpg))  
